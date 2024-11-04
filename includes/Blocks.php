@@ -42,7 +42,7 @@ class Blocks
     {
         $blocks = [
             'collapsibles', 'collapse', 'accordions', 'accordion', 'alert', 'notice', 'iconbox',
-            'tabs', 'tab', 'cta', 'insertion', 'contentwidthlimiter', 'columns', 'counter', 'counter-row'
+            'tabs', 'tab', 'cta', 'insertion', 'contentwidthlimiter', 'columns', 'counter', 'counter-row','organigram'
         ];
 
         foreach ($blocks as $block) {
